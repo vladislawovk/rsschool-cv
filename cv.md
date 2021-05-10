@@ -1,4 +1,5 @@
 <h1>Vladislav Vovk</h1>
+Location: Russia Krasnodar
 e-mail: vladislawovk@gmail.com<br />
 Telegram: @vladislawovk
 
@@ -8,6 +9,7 @@ Telegram: @vladislawovk
    <li>Kotlin</li>
    <li>Java</li>
    <li>Android SDK</li>
+   <li>Room</li>
    <li>Room</li>
    <li>SQLite</li>
    <li>Git</li>
