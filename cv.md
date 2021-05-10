@@ -12,3 +12,8 @@ Telegram: @vladislawovk
    <li>SQLite</li>
    <li>Git</li>
   </ul>
+<h3>Languages</h3>
+  <ul>
+   <li>Russian</li>
+   <li>English</li>
+   </ul>
