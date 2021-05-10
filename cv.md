@@ -1,5 +1,6 @@
 <h1>Vladislav Vovk</h1>
 e-mail: vladislawovk@gmail.com<br />
+Telegram: @vladislawovk
 
 <h2>Skills</h2>
  <h3>Programming Skills</h3>
